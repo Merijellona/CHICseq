@@ -1,2 +1,2 @@
 # CHICseq
-CHICseq scripts
+This repository contains the main CHICseq project scripts
