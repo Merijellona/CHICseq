@@ -1,0 +1,2 @@
+# CHICseq
+CHICseq scripts
